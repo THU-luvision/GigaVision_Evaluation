@@ -1,0 +1,10 @@
+{
+  "fileData":{
+    "evaluatorDir":"",
+    "evaluatorPath":"",
+    "standardFileDir":"",
+    "standardFilePath":"./mot_anno_full",
+    "userFileDir":"",
+    "userFilePath":"./results.zip"
+  }
+}
