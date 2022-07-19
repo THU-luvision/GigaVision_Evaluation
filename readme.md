@@ -1,4 +1,4 @@
-# Evaluation Scripts for GigaVisiiiion Challenge
+# Evaluation Scripts for GigaVision Challenge
 Official evaluation scripts for GigaVision Challenge. 
 
 ## Installation

@@ -1,1 +1,1 @@
-python evaluate.py input_param.json eva_results.json
+python evaluate.py /path/to/gt /path/to/result /url/to/post/score Tracking union_users_key
